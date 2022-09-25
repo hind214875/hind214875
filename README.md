@@ -30,7 +30,7 @@
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark(https://github.com/hind214875/github-readme-stats)
+[![hinda GitHub stats](https://github-readme-stats.vercel.app/api?username=hind214875)](https://github.com/hind214875/github-readme-stats)
 
 
 
