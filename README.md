@@ -31,8 +31,8 @@
 <hr>
 </br>
 
-![hinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=hind214875&theme=bear&show_icons=true)
- [![hinda's github stats](https://github-readme-stats.vercel.app/api?username=hind214875)](https://github.com/hind214875/github-readme-stats)
+ | <a href="https://github.com/hind214875/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hind214875&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/hind214875/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hind214875&theme=github_dark&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
