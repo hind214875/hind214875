@@ -1,15 +1,15 @@
-<div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=30&pause=1000&color=F7F7F7FF&width=500&height=60&lines=Hi+everyone+%F0%9F%91%8B)](https://git.io/typing-svg)
-</div>
 <hr>
-<div>
+</br>
+
 - 🔭 I’m currently working on learning 
 - 🌱 I’m currently learning javascript & PHP
 - 👯 I’m looking to collaborate on creative Projects with other people
 - I am currently available for work.
 - 😄 Pronouns: She/Her
 - Contact Me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hind-samiri-983583111)
-</div>
+</br>
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -30,6 +30,8 @@
 </br>
 </br>
 <hr>
+</br>
+
 ![hinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=hind214875&theme=bear&show_icons=true)
  
 
