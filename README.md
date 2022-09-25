@@ -11,10 +11,7 @@
 - 👯 I’m looking to collaborate on creative Projects with other people
 - I am currently available for work.
 - 😄 Pronouns: She/Her
-- Contact Me: <a href="https://www.linkedin.com/in/hind-samiri-983583111"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-
-  
- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/hind-samiri-983583111")
+- Contact Me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/hind-samiri-983583111")
 
 
 
