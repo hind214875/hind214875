@@ -32,7 +32,7 @@
 </br>
 
 ![hinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=hind214875&theme=bear&show_icons=true)
- 
+ [![hinda's github stats](https://github-readme-stats.vercel.app/api?username=hind214875)](https://github.com/hind214875/github-readme-stats)
 
 
 
