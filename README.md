@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=223571&width=435&lines=Hi+Everyone+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=30&pause=1000&color=F75716&width=500&height=60&lines=Hi+everyone+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/11BbGyhVmk4iLS/giphy.gif" width="300"/>
