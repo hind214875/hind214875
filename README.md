@@ -29,8 +29,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" **alt="ubuntu" width="40" height="40"/>
 </div>
 
-
-[![hinda GitHub stats](https://github-readme-stats.vercel.app/api?username=hind214875)](https://github.com/hind214875/github-readme-stats)
+/br
+<div>
+![hinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=hind214875&theme=bear&show_icons=true)
+</div>
 
 
 
