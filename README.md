@@ -1,5 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=30&pause=1000&color=F7F7F7FF&width=500&height=60&lines=Hi+everyone+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=1000&color=F7F7F7&width=500&height=60&lines=Hi+everyone+%F0%9F%91%8B)](https://git.io/typing-svg)
+
 <hr>
 </br>
 
