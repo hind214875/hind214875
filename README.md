@@ -1,5 +1,5 @@
 
- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+EVERYONE;Second+line+of+text)](https://git.io/typing-svg) 👋
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+EVERYONE;👋)](https://git.io/typing-svg) 
 
 
 
