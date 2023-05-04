@@ -3,7 +3,6 @@
 </br>
 
 - 🔭 I’m currently working on learning more
-- 🌱 I’m currently learning javascript & PHP
 - 👯 I’m looking to collaborate on creative Projects with other people
 - I am currently available for work.
 - 😄 Pronouns: She/Her
