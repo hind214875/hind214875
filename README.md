@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=1000&color=E9E9E9&width=500&height=60&lines=Hi+everyone+%F0%9F%91%8B)](https://git.io/typing-svg) <a href="https://hind214875.github.io/hindSamiri.github.io/" rel="nofollow">Website</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=1000&color=E9E9E9&width=500&height=60&lines=Hi+everyone+%F0%9F%91%8B)](https://git.io/typing-svg) 
 <hr>
 </br>
-
+-  My <a href="https://hind214875.github.io/hindSamiri.github.io/" rel="nofollow">Website</a>
 - 🔭 I’m currently working on learning more
 - 👯 I’m looking to collaborate on creative Projects with other people
 - I am currently available for work.
